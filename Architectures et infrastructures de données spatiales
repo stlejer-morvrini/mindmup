@@ -433,7 +433,8 @@
                   "attr": {
                     "style": {
                       "background": "#800000"
-                    }
+                    },
+                    "collapsed": true
                   }
                 },
                 "2": {
@@ -2032,7 +2033,8 @@
                   "attr": {
                     "style": {
                       "background": "#ff6600"
-                    }
+                    },
+                    "collapsed": true
                   }
                 }
               },
@@ -2091,8 +2093,8 @@
                       },
                       "id": 415,
                       "attr": {
-                        "collapsed": true,
-                        "style": {}
+                        "style": {},
+                        "collapsed": true
                       }
                     },
                     "2": {
@@ -2105,13 +2107,56 @@
                       },
                       "id": 419,
                       "attr": {
-                        "collapsed": true,
-                        "style": {}
+                        "style": {},
+                        "collapsed": true
                       }
                     },
                     "3": {
                       "title": "dans QGIS",
                       "id": 421
+                    },
+                    "4": {
+                      "title": "biblio",
+                      "id": 553,
+                      "ideas": {
+                        "3": {
+                          "title": "formation OGC de GéoBretagne",
+                          "id": 557,
+                          "ideas": {
+                            "1": {
+                              "title": "support de cours",
+                              "id": 558,
+                              "ideas": {
+                                "1": {
+                                  "title": "http://cms.geobretagne.fr/sites/default/files/documents/geobretagne_formation_OGC.pdf",
+                                  "id": 555,
+                                  "attr": {
+                                    "style": {},
+                                    "position": [
+                                      180.5,
+                                      -1.5,
+                                      1
+                                    ]
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "title": "exercices",
+                              "id": 560,
+                              "ideas": {
+                                "1": {
+                                  "title": "http://cms.geobretagne.fr/sites/default/files/documents/Exercices_Formation_OGC.pdf",
+                                  "id": 556,
+                                  "attr": {
+                                    "style": {}
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
                     }
                   },
                   "id": 414,
@@ -2157,128 +2202,194 @@
                 "1": {
                   "title": "Serveurs cartographiques: GeoServer",
                   "ideas": {
-                    "1": {
-                      "title": "préalable: voir les données",
-                      "ideas": {
-                        "1": {
-                          "title": "les viewers",
-                          "id": 427
-                        }
-                      },
-                      "id": 426,
-                      "attr": {
-                        "collapsed": true,
-                        "style": {}
-                      }
-                    },
-                    "2": {
-                      "title": "geoserver",
-                      "ideas": {
-                        "1": {
-                          "title": "quelques mots sur l'install",
-                          "ideas": {
-                            "1": {
-                              "title": "sur geoxxx",
-                              "ideas": {
-                                "1": {
-                                  "title": "geoxxx=serveur de test de géoSAS",
-                                  "id": 431
-                                }
-                              },
-                              "id": 430
-                            },
-                            "2": {
-                              "title": "prérequis",
-                              "ideas": {
-                                "1": {
-                                  "title": "install tomcat",
-                                  "id": 433
-                                }
-                              },
-                              "id": 432
-                            }
-                          },
-                          "id": 429
-                        },
-                        "2": {
-                          "title": "import de données: Pydio",
-                          "id": 434
-                        },
-                        "3": {
-                          "title": "fonctionnement geoserver",
-                          "ideas": {
-                            "1": {
-                              "title": "admin",
-                              "ideas": {
-                                "1": {
-                                  "title": "namespace",
-                                  "id": 437
-                                },
-                                "2": {
-                                  "title": "entrepot",
-                                  "id": 438
-                                },
-                                "3": {
-                                  "title": "déclaration de couches",
-                                  "ideas": {
-                                    "1": {
-                                      "title": "publication",
-                                      "id": 440
-                                    }
-                                  },
-                                  "id": 439
-                                },
-                                "4": {
-                                  "title": "stylage",
-                                  "ideas": {
-                                    "1": {
-                                      "title": "SLD",
-                                      "id": 442
-                                    }
-                                  },
-                                  "id": 441
-                                }
-                              },
-                              "id": 436
-                            }
-                          },
-                          "id": 435
-                        },
-                        "4": {
-                          "title": "publication",
-                          "id": 443
-                        }
-                      },
-                      "id": 428,
-                      "attr": {
-                        "collapsed": true,
-                        "style": {}
-                      }
-                    },
                     "3": {
-                      "title": "utilisation mapfishapp",
-                      "id": 444
+                      "title": "publication",
+                      "id": 443,
+                      "attr": {
+                        "style": {}
+                      }
                     },
                     "4": {
                       "title": "biblio",
                       "ideas": {
                         "1": {
-                          "title": "www geoserver",
-                          "id": 446
+                          "title": "Documentation GeoServer",
+                          "id": 446,
+                          "ideas": {
+                            "1": {
+                              "title": "http://docs.geoserver.org/",
+                              "id": 561
+                            }
+                          }
                         },
                         "2": {
-                          "title": "www geOrchestra",
-                          "id": 447
+                          "title": "Documentation geOrchestra",
+                          "id": 447,
+                          "ideas": {
+                            "1": {
+                              "title": "http://www.georchestra.org/documentation.html",
+                              "id": 562
+                            }
+                          }
                         },
                         "3": {
                           "title": "alternative FOSS: www mapserver",
-                          "id": 448
+                          "id": 448,
+                          "ideas": {
+                            "1": {
+                              "title": "http://www.mapserver.org/",
+                              "id": 580
+                            }
+                          }
                         }
                       },
                       "id": 445,
                       "attr": {
-                        "collapsed": true,
                         "style": {}
+                      }
+                    },
+                    "1.5": {
+                      "title": "config utilisée",
+                      "ideas": {
+                        "1": {
+                          "title": "sur geoxxx geoserverwps",
+                          "ideas": {
+                            "1": {
+                              "title": "geoxxx=serveur de test de géoSAS",
+                              "id": 431,
+                              "ideas": {
+                                "1": {
+                                  "title": "http://geoxxx.agrocampus-ouest.fr/geoserverwps/web/",
+                                  "id": 565
+                                }
+                              }
+                            }
+                          },
+                          "id": 430
+                        }
+                      },
+                      "id": 429,
+                      "attr": {
+                        "style": {},
+                        "collapsed": true
+                      }
+                    },
+                    "1.75": {
+                      "title": "import de données: Pydio",
+                      "id": 434,
+                      "attr": {
+                        "style": {},
+                        "collapsed": true
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "https://geoxxx.agrocampus-ouest.fr/pydio/#0",
+                          "id": 566
+                        }
+                      }
+                    },
+                    "1.875": {
+                      "title": "fonctionnement geoserver",
+                      "ideas": {
+                        "1": {
+                          "title": "admin",
+                          "ideas": {
+                            "1": {
+                              "title": "namespace",
+                              "id": 437
+                            },
+                            "2": {
+                              "title": "entrepot",
+                              "id": 438
+                            },
+                            "3": {
+                              "title": "déclaration de couches",
+                              "ideas": {
+                                "1": {
+                                  "title": "publication",
+                                  "id": 440
+                                }
+                              },
+                              "id": 439
+                            },
+                            "4": {
+                              "title": "stylage",
+                              "ideas": {
+                                "1": {
+                                  "title": "SLD",
+                                  "id": 442
+                                }
+                              },
+                              "id": 441
+                            }
+                          },
+                          "id": 436
+                        }
+                      },
+                      "id": 435,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "0.75": {
+                      "title": "install",
+                      "id": 567,
+                      "attr": {
+                        "style": {},
+                        "position": [
+                          181.5,
+                          -246.5,
+                          1
+                        ],
+                        "collapsed": true
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "linux",
+                          "id": 568,
+                          "ideas": {
+                            "1": {
+                              "title": "http://thatgeospatialblog.wordpress.com/2013/08/29/fourth-step-install-geoserver/",
+                              "id": 569
+                            },
+                            "0.5": {
+                              "title": "http://docs.geoserver.org/stable/en/user/installation/linux/index.html",
+                              "id": 571,
+                              "attr": {
+                                "style": {}
+                              }
+                            }
+                          }
+                        },
+                        "0.5": {
+                          "title": "prérequis",
+                          "ideas": {
+                            "1": {
+                              "title": "install tomcat",
+                              "id": 433
+                            }
+                          },
+                          "id": 432,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "0.75": {
+                          "title": "linux, windows, mac...",
+                          "id": 573,
+                          "ideas": {
+                            "1": {
+                              "title": "http://docs.geoserver.org/stable/en/user/installation/",
+                              "id": 572,
+                              "attr": {
+                                "style": {}
+                              }
+                            }
+                          },
+                          "attr": {
+                            "style": {}
+                          }
+                        }
                       }
                     }
                   },
@@ -2352,32 +2463,17 @@
                   "title": "Catalogues: GeoNetwork",
                   "ideas": {
                     "1": {
-                      "title": "quelques mots sur l'install",
+                      "title": "install",
                       "ideas": {
-                        "1": {
-                          "title": "pas d'install",
-                          "ideas": {
-                            "1": {
-                              "title": "(similaire install gs)",
-                              "id": 458
-                            }
-                          },
-                          "id": 457
-                        },
                         "2": {
-                          "title": "utilisation gn de geoxxx",
-                          "id": 459
+                          "title": "http://geonetwork-opensource.org/manuals/2.10.3/fra/users/quickstartguide/installing/index.html",
+                          "id": 577
                         }
                       },
                       "id": 456,
                       "attr": {
-                        "collapsed": true,
                         "style": {}
                       }
-                    },
-                    "2": {
-                      "title": "gn: pourquoi?",
-                      "id": 460
                     },
                     "3": {
                       "title": "métadonnées",
@@ -2409,19 +2505,10 @@
                             }
                           },
                           "id": 465
-                        },
-                        "3": {
-                          "title": "lier metadonnées et données",
-                          "id": 468
-                        },
-                        "4": {
-                          "title": "thésaurus",
-                          "id": 469
                         }
                       },
                       "id": 461,
                       "attr": {
-                        "collapsed": true,
                         "style": {}
                       }
                     },
@@ -2433,17 +2520,56 @@
                           "id": 471
                         },
                         "2": {
-                          "title": "www geonetwork",
-                          "id": 472
+                          "title": "Documentation GeoNetwork",
+                          "id": 472,
+                          "ideas": {
+                            "1": {
+                              "title": "http://geonetwork-opensource.org/manuals/",
+                              "id": 578
+                            }
+                          }
                         },
                         "3": {
                           "title": "alternative FOSS: www geosource",
-                          "id": 473
+                          "id": 473,
+                          "ideas": {
+                            "1": {
+                              "title": "http://www.geosource.fr/",
+                              "id": 581
+                            }
+                          }
                         }
                       },
                       "id": 470,
                       "attr": {
-                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "1.5": {
+                      "title": "config utilisée",
+                      "id": 574,
+                      "ideas": {
+                        "1": {
+                          "title": "utilisation du GeoNetwork de geowww",
+                          "id": 459,
+                          "attr": {
+                            "style": {}
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "geowww: serveur de prod de GéoSAS",
+                              "id": 575,
+                              "ideas": {
+                                "1": {
+                                  "title": "http://geowww.agrocampus-ouest.fr/geonetwork/srv/fr/main.home",
+                                  "id": 576
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
                         "style": {}
                       }
                     }
@@ -2495,6 +2621,28 @@
                     "style": {
                       "background": "#99cc00"
                     }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "métadonnées",
+                      "id": 583,
+                      "ideas": {
+                        "1": {
+                          "title": "lier metadonnées et données",
+                          "id": 468,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "2": {
+                          "title": "thésaurus",
+                          "id": 469,
+                          "attr": {
+                            "style": {}
+                          }
+                        }
+                      }
+                    }
                   }
                 }
               },
@@ -2533,7 +2681,6 @@
                       },
                       "id": 480,
                       "attr": {
-                        "collapsed": true,
                         "style": {}
                       }
                     },
@@ -2700,6 +2847,12 @@
                   "attr": {
                     "style": {
                       "background": "#00ccff"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "http://cms.geobretagne.fr/content/assembl%C3%A9e-g%C3%A9n%C3%A9rale-2014",
+                      "id": 564
                     }
                   }
                 }
@@ -3084,5 +3237,6 @@
     }
   },
   "formatVersion": 2,
-  "id": 1
+  "id": 1,
+  "links": []
 }
