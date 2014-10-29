@@ -1,0 +1,3088 @@
+{
+  "title": "Architectures et infrastructures de données spatiales: le programme",
+  "attr": {
+    "style": {
+      "background": "#800080"
+    }
+  },
+  "ideas": {
+    "1": {
+      "title": "1",
+      "ideas": {
+        "1": {
+          "title": "Lundi 03/11 de 9 à 12",
+          "ideas": {
+            "1": {
+              "title": "3h",
+              "ideas": {
+                "1": {
+                  "title": "Introduction",
+                  "ideas": {
+                    "1": {
+                      "title": "mise en place/présentation outils collaboratifs",
+                      "ideas": {
+                        "1": {
+                          "title": "outils",
+                          "ideas": {
+                            "1": {
+                              "title": "principes - mots clés",
+                              "ideas": {
+                                "1": {
+                                  "title": "Logiciel",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "FOSS /FLOSS",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "free",
+                                          "id": 11
+                                        },
+                                        "2": {
+                                          "title": "Libre",
+                                          "id": 12
+                                        },
+                                        "3": {
+                                          "title": "open source",
+                                          "id": 13
+                                        }
+                                      },
+                                      "id": 10
+                                    },
+                                    "2": {
+                                      "title": "ouvert",
+                                      "id": 14
+                                    },
+                                    "3": {
+                                      "title": "interopérable",
+                                      "id": 15
+                                    },
+                                    "4": {
+                                      "title": "modulable",
+                                      "id": 16
+                                    }
+                                  },
+                                  "id": 9
+                                },
+                                "2": {
+                                  "title": "Communauté... et vous!",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "interaction",
+                                      "id": 18
+                                    },
+                                    "2": {
+                                      "title": "entraide",
+                                      "id": 19
+                                    },
+                                    "3": {
+                                      "title": "partage",
+                                      "id": 20
+                                    },
+                                    "4": {
+                                      "title": "collaboratif",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "(crowd sourcing)",
+                                          "id": 22
+                                        }
+                                      },
+                                      "id": 21
+                                    },
+                                    "5": {
+                                      "title": "bénévolat",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "(gratuit)",
+                                          "id": 24
+                                        }
+                                      },
+                                      "id": 23
+                                    }
+                                  },
+                                  "id": 17
+                                }
+                              },
+                              "id": 8
+                            },
+                            "2": {
+                              "title": "prise de note",
+                              "ideas": {
+                                "1": {
+                                  "title": "collaborative",
+                                  "id": 26
+                                },
+                                "2": {
+                                  "title": "partage",
+                                  "id": 27
+                                },
+                                "3": {
+                                  "title": "produit",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "synthèse",
+                                      "id": 29
+                                    },
+                                    "2": {
+                                      "title": "reference",
+                                      "id": 30
+                                    }
+                                  },
+                                  "id": 28
+                                },
+                                "4": {
+                                  "title": "but",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "base de connaissance",
+                                      "id": 32
+                                    }
+                                  },
+                                  "id": 31
+                                },
+                                "5": {
+                                  "title": "outils",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Vive le Web!",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "ENT Rennes 2",
+                                          "id": 35
+                                        },
+                                        "2": {
+                                          "title": "ENT agro",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "http://tice.agrocampus-ouest.fr/course/view.php?id=402",
+                                              "id": 37
+                                            },
+                                            "2": {
+                                              "title": "accès",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "public",
+                                                  "id": 39
+                                                },
+                                                "2": {
+                                                  "title": "transmettez votre e-mail",
+                                                  "id": 40
+                                                }
+                                              },
+                                              "id": 38
+                                            },
+                                            "3": {
+                                              "title": "espace de partage, cloud",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "dropbox",
+                                                  "id": 42
+                                                },
+                                                "2": {
+                                                  "title": "spideroak",
+                                                  "id": 43
+                                                },
+                                                "3": {
+                                                  "title": "google drive",
+                                                  "id": 44
+                                                },
+                                                "4": {
+                                                  "title": "...",
+                                                  "id": 45
+                                                }
+                                              },
+                                              "id": 41
+                                            }
+                                          },
+                                          "id": 36
+                                        },
+                                        "3": {
+                                          "title": "tableau de bord",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "trello",
+                                              "id": 47
+                                            }
+                                          },
+                                          "id": 46
+                                        },
+                                        "4": {
+                                          "title": "documentation collaborative",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "piratepad",
+                                              "id": 49
+                                            },
+                                            "2": {
+                                              "title": "public pad",
+                                              "id": 50
+                                            },
+                                            "3": {
+                                              "title": "Framapad",
+                                              "id": 51
+                                            },
+                                            "4": {
+                                              "title": "google docs",
+                                              "id": 52
+                                            }
+                                          },
+                                          "id": 48
+                                        },
+                                        "5": {
+                                          "title": "wiki",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "https://master-geomatique.wikispaces.com/home",
+                                              "id": 54
+                                            }
+                                          },
+                                          "id": 53
+                                        }
+                                      },
+                                      "id": 34
+                                    },
+                                    "2": {
+                                      "title": "mindmap?",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "freemind",
+                                          "id": 56
+                                        },
+                                        "2": {
+                                          "title": "xmind",
+                                          "id": 57
+                                        },
+                                        "3": {
+                                          "title": "...",
+                                          "id": 58
+                                        }
+                                      },
+                                      "id": 55
+                                    },
+                                    "3": {
+                                      "title": "\trecherche web",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "ressources",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "données",
+                                              "id": 61
+                                            },
+                                            "2": {
+                                              "title": "metadonnées",
+                                              "id": 62
+                                            },
+                                            "3": {
+                                              "title": "documentation",
+                                              "id": 63
+                                            },
+                                            "4": {
+                                              "title": "outils",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "recherche",
+                                                  "id": 65
+                                                },
+                                                "2": {
+                                                  "title": "analyse",
+                                                  "id": 66
+                                                },
+                                                "3": {
+                                                  "title": "traitement",
+                                                  "id": 67
+                                                }
+                                              },
+                                              "id": 64
+                                            },
+                                            "5": {
+                                              "title": "plateformes",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "données",
+                                                  "id": 69
+                                                },
+                                                "2": {
+                                                  "title": "métadonnées",
+                                                  "id": 70
+                                                },
+                                                "3": {
+                                                  "title": "?outils?",
+                                                  "id": 71
+                                                }
+                                              },
+                                              "id": 68
+                                            },
+                                            "6": {
+                                              "title": "sites web",
+                                              "id": 72
+                                            }
+                                          },
+                                          "id": 60
+                                        },
+                                        "2": {
+                                          "title": "obtenir...",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "la donnée",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "où ... ?",
+                                                  "ideas": {
+                                                    "1": {
+                                                      "title": "regarder?",
+                                                      "id": 76
+                                                    },
+                                                    "2": {
+                                                      "title": "clicker?",
+                                                      "id": 77
+                                                    },
+                                                    "3": {
+                                                      "title": "s'adresser?",
+                                                      "ideas": {
+                                                        "1": {
+                                                          "title": "(qui?)",
+                                                          "id": 79
+                                                        }
+                                                      },
+                                                      "id": 78
+                                                    }
+                                                  },
+                                                  "id": 75
+                                                },
+                                                "2": {
+                                                  "title": "quoi?",
+                                                  "ideas": {
+                                                    "1": {
+                                                      "title": "thematique",
+                                                      "id": 81
+                                                    },
+                                                    "2": {
+                                                      "title": "couverture",
+                                                      "id": 82
+                                                    },
+                                                    "3": {
+                                                      "title": "grain/précision/résolution",
+                                                      "id": 83
+                                                    },
+                                                    "4": {
+                                                      "title": "format",
+                                                      "id": 84
+                                                    }
+                                                  },
+                                                  "id": 80
+                                                },
+                                                "3": {
+                                                  "title": "comment?",
+                                                  "ideas": {
+                                                    "1": {
+                                                      "title": "download",
+                                                      "id": 86
+                                                    },
+                                                    "2": {
+                                                      "title": "demande ",
+                                                      "ideas": {
+                                                        "1": {
+                                                          "title": "email",
+                                                          "id": 88
+                                                        }
+                                                      },
+                                                      "id": 87
+                                                    },
+                                                    "3": {
+                                                      "title": "flux",
+                                                      "id": 89
+                                                    },
+                                                    "4": {
+                                                      "title": "...",
+                                                      "id": 90
+                                                    }
+                                                  },
+                                                  "id": 85
+                                                }
+                                              },
+                                              "id": 74
+                                            },
+                                            "2": {
+                                              "title": "idem meta, et le reste...",
+                                              "id": 91
+                                            }
+                                          },
+                                          "id": 73
+                                        }
+                                      },
+                                      "id": 59
+                                    }
+                                  },
+                                  "id": 33
+                                }
+                              },
+                              "id": 25
+                            }
+                          },
+                          "id": 7
+                        }
+                      },
+                      "id": 6,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    }
+                  },
+                  "id": 5,
+                  "attr": {
+                    "style": {
+                      "background": "#800000"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Généralités ",
+                  "ideas": {
+                    "1": {
+                      "title": "Acteurs",
+                      "ideas": {
+                        "1": {
+                          "title": "organismes",
+                          "ideas": {
+                            "1": {
+                              "title": "agences carto",
+                              "ideas": {
+                                "1": {
+                                  "title": "nationales",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "IGN",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "F",
+                                          "id": 98
+                                        },
+                                        "2": {
+                                          "title": "E",
+                                          "id": 99
+                                        },
+                                        "3": {
+                                          "title": "Be",
+                                          "id": 100
+                                        },
+                                        "4": {
+                                          "title": "...",
+                                          "id": 101
+                                        }
+                                      },
+                                      "id": 97
+                                    },
+                                    "2": {
+                                      "title": "OS",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "GB",
+                                          "id": 103
+                                        },
+                                        "2": {
+                                          "title": "NI",
+                                          "id": 104
+                                        },
+                                        "3": {
+                                          "title": "Irl",
+                                          "id": 105
+                                        }
+                                      },
+                                      "id": 102
+                                    }
+                                  },
+                                  "id": 96
+                                }
+                              },
+                              "id": 95
+                            },
+                            "2": {
+                              "title": "autres organismes",
+                              "ideas": {
+                                "1": {
+                                  "title": "collectivités",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "régions",
+                                      "id": 108
+                                    },
+                                    "2": {
+                                      "title": "communes",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "cadastre",
+                                          "id": 110
+                                        },
+                                        "2": {
+                                          "title": "pos",
+                                          "id": 111
+                                        },
+                                        "3": {
+                                          "title": "plu",
+                                          "id": 112
+                                        }
+                                      },
+                                      "id": 109
+                                    },
+                                    "3": {
+                                      "title": "comcom",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "e.g.",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "Rennes métropole",
+                                              "id": 115
+                                            },
+                                            "2": {
+                                              "title": "cap Lorient",
+                                              "id": 116
+                                            },
+                                            "3": {
+                                              "title": "BMO",
+                                              "id": 117
+                                            },
+                                            "4": {
+                                              "title": "Quimper communauté",
+                                              "id": 118
+                                            },
+                                            "5": {
+                                              "title": "...",
+                                              "id": 119
+                                            }
+                                          },
+                                          "id": 114
+                                        }
+                                      },
+                                      "id": 113
+                                    },
+                                    "4": {
+                                      "title": "départements",
+                                      "id": 120
+                                    }
+                                  },
+                                  "id": 107
+                                },
+                                "2": {
+                                  "title": "publics",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "administrations",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "fiscales",
+                                          "id": 123
+                                        },
+                                        "2": {
+                                          "title": "agence service payement (ASP)",
+                                          "id": 124
+                                        },
+                                        "3": {
+                                          "title": "...",
+                                          "id": 125
+                                        }
+                                      },
+                                      "id": 122
+                                    }
+                                  },
+                                  "id": 121
+                                },
+                                "3": {
+                                  "title": "délégataires/sectoriels, etc.",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "chambres d'agricultures",
+                                      "id": 127
+                                    },
+                                    "2": {
+                                      "title": "comités des pêches",
+                                      "id": 128
+                                    }
+                                  },
+                                  "id": 126
+                                },
+                                "4": {
+                                  "title": "privé",
+                                  "id": 129
+                                }
+                              },
+                              "id": 106
+                            },
+                            "3": {
+                              "title": "org, asso but non lucratif",
+                              "id": 130
+                            },
+                            "4": {
+                              "title": "recherche, enseignement supérieur",
+                              "id": 131
+                            }
+                          },
+                          "id": 94
+                        },
+                        "2": {
+                          "title": "collecte/centralisation données",
+                          "ideas": {
+                            "1": {
+                              "title": "portails",
+                              "ideas": {
+                                "1": {
+                                  "title": "carto",
+                                  "id": 134
+                                },
+                                "2": {
+                                  "title": "open data",
+                                  "id": 135
+                                }
+                              },
+                              "id": 133
+                            }
+                          },
+                          "id": 132
+                        }
+                      },
+                      "id": 93,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "Outils réglementaires et standards",
+                      "ideas": {
+                        "1": {
+                          "title": "OGC",
+                          "ideas": {
+                            "1": {
+                              "title": "services web",
+                              "id": 138
+                            },
+                            "2": {
+                              "title": "données geo",
+                              "ideas": {
+                                "1": {
+                                  "title": "normes",
+                                  "id": 140
+                                },
+                                "2": {
+                                  "title": "échange",
+                                  "id": 141
+                                }
+                              },
+                              "id": 139
+                            }
+                          },
+                          "id": 137
+                        },
+                        "2": {
+                          "title": "INSPIRE",
+                          "ideas": {
+                            "1": {
+                              "title": "EU directive setting an Infrastructure for Spatial Information in Europe (2007) ",
+                              "ideas": {
+                                "1": {
+                                  "title": "directive européenne",
+                                  "id": 144
+                                },
+                                "2": {
+                                  "title": "données",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "publique",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "autant que possible",
+                                          "id": 147
+                                        }
+                                      },
+                                      "id": 146
+                                    },
+                                    "2": {
+                                      "title": "accessible",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "catalogue",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "métadonnées",
+                                              "id": 150
+                                            },
+                                            "2": {
+                                              "title": "notices explicatives",
+                                              "id": 151
+                                            },
+                                            "3": {
+                                              "title": "mode d'emploi",
+                                              "id": 152
+                                            }
+                                          },
+                                          "id": 149
+                                        },
+                                        "2": {
+                                          "title": "en ligne",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "portail",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "open data",
+                                                  "id": 155
+                                                }
+                                              },
+                                              "id": 154
+                                            }
+                                          },
+                                          "id": 153
+                                        }
+                                      },
+                                      "id": 148
+                                    },
+                                    "3": {
+                                      "title": "publicité",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "portail, site web",
+                                          "id": 157
+                                        },
+                                        "2": {
+                                          "title": "information au public",
+                                          "id": 158
+                                        }
+                                      },
+                                      "id": 156
+                                    }
+                                  },
+                                  "id": 145
+                                }
+                              },
+                              "id": 143
+                            }
+                          },
+                          "id": 142
+                        },
+                        "3": {
+                          "title": "PSI",
+                          "ideas": {
+                            "1": {
+                              "title": "EU Directive on Public  Sector Information (2003, 2013)",
+                              "id": 160
+                            }
+                          },
+                          "id": 159
+                        },
+                        "4": {
+                          "title": "Open data",
+                          "ideas": {
+                            "1": {
+                              "title": "exemples",
+                              "ideas": {
+                                "1": {
+                                  "title": "data.gouv.fr",
+                                  "id": 163
+                                },
+                                "2": {
+                                  "title": "data.gov (US)",
+                                  "id": 164
+                                },
+                                "3": {
+                                  "title": "data.gov.uk",
+                                  "id": 165
+                                },
+                                "4": {
+                                  "title": "datos.gob.es",
+                                  "id": 166
+                                },
+                                "5": {
+                                  "title": "dados.gov.pt",
+                                  "id": 167
+                                },
+                                "6": {
+                                  "title": "data.gc.ca",
+                                  "id": 168
+                                },
+                                "7": {
+                                  "title": "...",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "+@ wikipedia",
+                                      "id": 170
+                                    }
+                                  },
+                                  "id": 169
+                                }
+                              },
+                              "id": 162
+                            }
+                          },
+                          "id": 161
+                        }
+                      },
+                      "id": 136,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "Données",
+                      "ideas": {
+                        "1": {
+                          "title": "accès",
+                          "ideas": {
+                            "1": {
+                              "title": "download",
+                              "ideas": {
+                                "1": {
+                                  "title": "zip",
+                                  "id": 174
+                                },
+                                "2": {
+                                  "title": "tar",
+                                  "id": 175
+                                },
+                                "3": {
+                                  "title": "...",
+                                  "id": 176
+                                }
+                              },
+                              "id": 173
+                            },
+                            "2": {
+                              "title": "flux",
+                              "ideas": {
+                                "1": {
+                                  "title": "OGC",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "WMS",
+                                      "id": 179
+                                    },
+                                    "2": {
+                                      "title": "WFS",
+                                      "id": 180
+                                    },
+                                    "3": {
+                                      "title": "CSW",
+                                      "id": 181
+                                    },
+                                    "4": {
+                                      "title": "...",
+                                      "id": 182
+                                    }
+                                  },
+                                  "id": 178
+                                }
+                              },
+                              "id": 177
+                            },
+                            "3": {
+                              "title": "consultation simple",
+                              "ideas": {
+                                "1": {
+                                  "title": "jpeg",
+                                  "id": 184
+                                },
+                                "2": {
+                                  "title": "png",
+                                  "id": 185
+                                },
+                                "3": {
+                                  "title": "...",
+                                  "id": 186
+                                }
+                              },
+                              "id": 183
+                            }
+                          },
+                          "id": 172
+                        },
+                        "2": {
+                          "title": "format",
+                          "ideas": {
+                            "1": {
+                              "title": "vecteur",
+                              "ideas": {
+                                "1": {
+                                  "title": "shp",
+                                  "id": 189
+                                },
+                                "2": {
+                                  "title": "shp zippé",
+                                  "id": 190
+                                },
+                                "3": {
+                                  "title": "kml",
+                                  "id": 191
+                                },
+                                "4": {
+                                  "title": "osm",
+                                  "id": 192
+                                },
+                                "5": {
+                                  "title": "...",
+                                  "id": 193
+                                }
+                              },
+                              "id": 188
+                            },
+                            "2": {
+                              "title": "raster",
+                              "ideas": {
+                                "1": {
+                                  "title": "grid",
+                                  "id": 195
+                                },
+                                "2": {
+                                  "title": "geotiff",
+                                  "id": 196
+                                },
+                                "3": {
+                                  "title": "ecw",
+                                  "id": 197
+                                },
+                                "4": {
+                                  "title": "...",
+                                  "id": 198
+                                }
+                              },
+                              "id": 194
+                            },
+                            "3": {
+                              "title": "autre",
+                              "ideas": {
+                                "1": {
+                                  "title": "csv",
+                                  "id": 200
+                                },
+                                "2": {
+                                  "title": "xls",
+                                  "id": 201
+                                },
+                                "3": {
+                                  "title": "...",
+                                  "id": 202
+                                }
+                              },
+                              "id": 199
+                            }
+                          },
+                          "id": 187
+                        },
+                        "3": {
+                          "title": "Licences",
+                          "ideas": {
+                            "1": {
+                              "title": "libre",
+                              "ideas": {
+                                "1": {
+                                  "title": "copyleft",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "copyright à contre usage",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "propriétaire",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "autorise/impose",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "copie",
+                                                  "id": 209
+                                                },
+                                                "2": {
+                                                  "title": "exploitation",
+                                                  "id": 210
+                                                },
+                                                "3": {
+                                                  "title": "modification",
+                                                  "id": 211
+                                                },
+                                                "4": {
+                                                  "title": "conditions",
+                                                  "ideas": {
+                                                    "1": {
+                                                      "title": "mêmes règles pour tout usage",
+                                                      "id": 213
+                                                    },
+                                                    "2": {
+                                                      "title": "viralité",
+                                                      "id": 214
+                                                    },
+                                                    "3": {
+                                                      "title": "free/libre",
+                                                      "ideas": {
+                                                        "1": {
+                                                          "title": "libre réutilisation",
+                                                          "id": 216
+                                                        },
+                                                        "2": {
+                                                          "title": "eventuellement payant ",
+                                                          "id": 217
+                                                        }
+                                                      },
+                                                      "id": 215
+                                                    }
+                                                  },
+                                                  "id": 212
+                                                }
+                                              },
+                                              "id": 208
+                                            }
+                                          },
+                                          "id": 207
+                                        }
+                                      },
+                                      "id": 206
+                                    }
+                                  },
+                                  "id": 205
+                                },
+                                "2": {
+                                  "title": "copy free",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "copyleft sans viralité",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "possibilité de privatiser une copie",
+                                          "id": 220
+                                        }
+                                      },
+                                      "id": 219
+                                    }
+                                  },
+                                  "id": 218
+                                },
+                                "3": {
+                                  "title": "domaine public",
+                                  "id": 221
+                                },
+                                "4": {
+                                  "title": "exemples",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Creative Commons",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "cc0",
+                                          "id": 224
+                                        },
+                                        "2": {
+                                          "title": "cc-by-sa",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "exemples",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "données OSM",
+                                                  "id": 227
+                                                },
+                                                "2": {
+                                                  "title": "wikipedia",
+                                                  "id": 228
+                                                }
+                                              },
+                                              "id": 226
+                                            }
+                                          },
+                                          "id": 225
+                                        },
+                                        "3": {
+                                          "title": "cc-by",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "citer",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "auteur",
+                                                  "id": 231
+                                                },
+                                                "2": {
+                                                  "title": "travail original",
+                                                  "id": 232
+                                                }
+                                              },
+                                              "id": 230
+                                            }
+                                          },
+                                          "id": 229
+                                        },
+                                        "4": {
+                                          "title": "cc-nc",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "interdit les utilisations commerciales",
+                                              "id": 234
+                                            }
+                                          },
+                                          "id": 233
+                                        },
+                                        "5": {
+                                          "title": "cc-nd",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "limité aux copies non modifiées",
+                                              "id": 236
+                                            }
+                                          },
+                                          "id": 235
+                                        }
+                                      },
+                                      "id": 223
+                                    },
+                                    "2": {
+                                      "title": "GNU",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "GNU GPL",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "soft",
+                                              "id": 239
+                                            }
+                                          },
+                                          "id": 238
+                                        },
+                                        "2": {
+                                          "title": " GNU FDL (GFDL)",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "documents",
+                                              "id": 241
+                                            }
+                                          },
+                                          "id": 240
+                                        },
+                                        "3": {
+                                          "title": "adaptations",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "EUPL",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "copyleft adapté droit européen",
+                                                  "ideas": {
+                                                    "1": {
+                                                      "title": "garantie limitée",
+                                                      "id": 245
+                                                    }
+                                                  },
+                                                  "id": 244
+                                                }
+                                              },
+                                              "id": 243
+                                            },
+                                            "2": {
+                                              "title": "Cecill",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "GNU GPL adapté droit francais",
+                                                  "ideas": {
+                                                    "1": {
+                                                      "title": "garantie limitée",
+                                                      "id": 248
+                                                    }
+                                                  },
+                                                  "id": 247
+                                                },
+                                                "2": {
+                                                  "title": "exemples",
+                                                  "ideas": {
+                                                    "1": {
+                                                      "title": "IDS geOrchestra",
+                                                      "id": 250
+                                                    }
+                                                  },
+                                                  "id": 249
+                                                }
+                                              },
+                                              "id": 246
+                                            }
+                                          },
+                                          "id": 242
+                                        }
+                                      },
+                                      "id": 237
+                                    }
+                                  },
+                                  "id": 222
+                                }
+                              },
+                              "id": 204
+                            },
+                            "2": {
+                              "title": "commercial",
+                              "ideas": {
+                                "1": {
+                                  "title": "copyright",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "droit exclusif",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "auteur/créateur",
+                                          "id": 254
+                                        },
+                                        "2": {
+                                          "title": "...",
+                                          "id": 255
+                                        }
+                                      },
+                                      "id": 253
+                                    },
+                                    "2": {
+                                      "title": "durée",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "limitée",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "(cas general)",
+                                              "id": 258
+                                            }
+                                          },
+                                          "id": 257
+                                        },
+                                        "2": {
+                                          "title": "illimitée",
+                                          "id": 259
+                                        }
+                                      },
+                                      "id": 256
+                                    },
+                                    "3": {
+                                      "title": "propriétaire",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "droit de copier",
+                                          "id": 261
+                                        },
+                                        "2": {
+                                          "title": "autorise/refuse ",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "copie par tiers",
+                                              "id": 263
+                                            },
+                                            "2": {
+                                              "title": "exploitation",
+                                              "id": 264
+                                            },
+                                            "3": {
+                                              "title": "crédité",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "cité",
+                                                  "id": 266
+                                                },
+                                                "2": {
+                                                  "title": "rémunération",
+                                                  "id": 267
+                                                }
+                                              },
+                                              "id": 265
+                                            }
+                                          },
+                                          "id": 262
+                                        },
+                                        "3": {
+                                          "title": "tolérances",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "utilisation de bonne foi",
+                                              "id": 269
+                                            }
+                                          },
+                                          "id": 268
+                                        }
+                                      },
+                                      "id": 260
+                                    }
+                                  },
+                                  "id": 252
+                                },
+                                "2": {
+                                  "title": "lire les termes de la licence",
+                                  "id": 270
+                                }
+                              },
+                              "id": 251
+                            },
+                            "3": {
+                              "title": "questions",
+                              "ideas": {
+                                "1": {
+                                  "title": "quelle licence?",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "regarder la licence",
+                                      "id": 273
+                                    }
+                                  },
+                                  "id": 272
+                                },
+                                "2": {
+                                  "title": "qui a les droits?",
+                                  "id": 274
+                                },
+                                "3": {
+                                  "title": "ai-je l'autorisation?",
+                                  "id": 275
+                                },
+                                "4": {
+                                  "title": "comment me prémunir?",
+                                  "ideas": {
+                                    "1": {
+                                      "title": " bonne foi en general retenue",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "licence non accessible",
+                                          "id": 278
+                                        },
+                                        "2": {
+                                          "title": "usage non commercial",
+                                          "id": 279
+                                        },
+                                        "3": {
+                                          "title": "usage educatif",
+                                          "id": 280
+                                        }
+                                      },
+                                      "id": 277
+                                    },
+                                    "2": {
+                                      "title": "citer la source",
+                                      "id": 281
+                                    }
+                                  },
+                                  "id": 276
+                                }
+                              },
+                              "id": 271
+                            }
+                          },
+                          "id": 203
+                        }
+                      },
+                      "id": 171,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "4": {
+                      "title": "Métadonnées",
+                      "ideas": {
+                        "1": {
+                          "title": "INSPIRE",
+                          "id": 283
+                        },
+                        "2": {
+                          "title": "de données",
+                          "id": 284
+                        },
+                        "3": {
+                          "title": "de services",
+                          "id": 285
+                        }
+                      },
+                      "id": 282,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "5": {
+                      "title": "Visualisation de cartes",
+                      "ideas": {
+                        "1": {
+                          "title": "viewers",
+                          "id": 287
+                        }
+                      },
+                      "id": 286,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "6": {
+                      "title": "Outils techniques",
+                      "ideas": {
+                        "1": {
+                          "title": "libre",
+                          "ideas": {
+                            "1": {
+                              "title": "clients ",
+                              "ideas": {
+                                "1": {
+                                  "title": "SIG libre",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "qgis",
+                                      "id": 292
+                                    },
+                                    "2": {
+                                      "title": "gvsig",
+                                      "id": 293
+                                    },
+                                    "3": {
+                                      "title": "openjump",
+                                      "id": 294
+                                    },
+                                    "4": {
+                                      "title": "...",
+                                      "id": 295
+                                    }
+                                  },
+                                  "id": 291
+                                },
+                                "2": {
+                                  "title": "worldwind (NASA)",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "--> googleearth",
+                                      "id": 297
+                                    }
+                                  },
+                                  "id": 296
+                                },
+                                "3": {
+                                  "title": "navigateur web",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "API",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "openlayer",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "mapfishapp",
+                                              "id": 301
+                                            }
+                                          },
+                                          "id": 300
+                                        }
+                                      },
+                                      "id": 299
+                                    },
+                                    "2": {
+                                      "title": "OSM potlatch",
+                                      "id": 302
+                                    }
+                                  },
+                                  "id": 298
+                                },
+                                "4": {
+                                  "title": "JOSM",
+                                  "id": 303
+                                }
+                              },
+                              "id": 290
+                            },
+                            "2": {
+                              "title": "serveurs",
+                              "ideas": {
+                                "1": {
+                                  "title": "geoserver",
+                                  "id": 305
+                                },
+                                "2": {
+                                  "title": "mapserver",
+                                  "id": 306
+                                },
+                                "3": {
+                                  "title": "...",
+                                  "id": 307
+                                },
+                                "4": {
+                                  "title": "geonetwork",
+                                  "id": 308
+                                },
+                                "5": {
+                                  "title": "geosource",
+                                  "id": 309
+                                },
+                                "6": {
+                                  "title": "...",
+                                  "id": 310
+                                }
+                              },
+                              "id": 304
+                            },
+                            "3": {
+                              "title": "outils collaboratifs",
+                              "ideas": {
+                                "1": {
+                                  "title": "OSM",
+                                  "id": 312
+                                }
+                              },
+                              "id": 311
+                            },
+                            "4": {
+                              "title": "Architecture de données spatiales",
+                              "ideas": {
+                                "1": {
+                                  "title": "geOrchestra",
+                                  "id": 314
+                                }
+                              },
+                              "id": 313
+                            }
+                          },
+                          "id": 289
+                        },
+                        "2": {
+                          "title": "non libre/commercial",
+                          "ideas": {
+                            "1": {
+                              "title": "||",
+                              "ideas": {
+                                "1": {
+                                  "title": "soft non libre",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "licence",
+                                      "id": 318
+                                    }
+                                  },
+                                  "id": 317
+                                },
+                                "2": {
+                                  "title": "données non libres",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "droit d'entrée",
+                                      "id": 320
+                                    }
+                                  },
+                                  "id": 319
+                                },
+                                "3": {
+                                  "title": "service non libre",
+                                  "id": 321
+                                }
+                              },
+                              "id": 316
+                            },
+                            "2": {
+                              "title": "e.g.",
+                              "ideas": {
+                                "1": {
+                                  "title": "googleearth/map",
+                                  "id": 323
+                                }
+                              },
+                              "id": 322
+                            }
+                          },
+                          "id": 315
+                        },
+                        "3": {
+                          "title": "licence",
+                          "id": 324
+                        }
+                      },
+                      "id": 288,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "7": {
+                      "title": "Interopérabilité",
+                      "ideas": {
+                        "1": {
+                          "title": "standards OGC",
+                          "ideas": {
+                            "1": {
+                              "title": "requêtage OGC",
+                              "ideas": {
+                                "1": {
+                                  "title": "requêtes",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "WMS",
+                                      "id": 329
+                                    },
+                                    "2": {
+                                      "title": "WFS",
+                                      "id": 330
+                                    },
+                                    "3": {
+                                      "title": "CSW",
+                                      "id": 331
+                                    },
+                                    "4": {
+                                      "title": "...",
+                                      "id": 332
+                                    }
+                                  },
+                                  "id": 328
+                                },
+                                "2": {
+                                  "title": "directe",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "firefox",
+                                      "id": 334
+                                    },
+                                    "2": {
+                                      "title": "firebugs",
+                                      "id": 335
+                                    }
+                                  },
+                                  "id": 333
+                                },
+                                "3": {
+                                  "title": "par les IDS",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "utilisation mapfishapp",
+                                      "id": 337
+                                    }
+                                  },
+                                  "id": 336
+                                }
+                              },
+                              "id": 327
+                            },
+                            "2": {
+                              "title": "biblio",
+                              "ideas": {
+                                "1": {
+                                  "title": "Kit formation GéoBretagne",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "http://cms.geobretagne.fr/content/kit-de-formation-g%C3%A9obretagne-des-services-web-aux-sig",
+                                      "id": 340
+                                    }
+                                  },
+                                  "id": 339
+                                }
+                              },
+                              "id": 338
+                            }
+                          },
+                          "id": 326
+                        }
+                      },
+                      "id": 325,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "8": {
+                      "title": "Architectures de données spatiales",
+                      "ideas": {
+                        "1": {
+                          "title": "geOrchestra",
+                          "ideas": {
+                            "1": {
+                              "title": "Libre et gratuit",
+                              "id": 343
+                            },
+                            "2": {
+                              "title": "modulaire",
+                              "ideas": {
+                                "1": {
+                                  "title": "Composants",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "geonetwork",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "gn",
+                                          "id": 347
+                                        }
+                                      },
+                                      "id": 346
+                                    },
+                                    "2": {
+                                      "title": "geoserver",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "gs",
+                                          "id": 349
+                                        }
+                                      },
+                                      "id": 348
+                                    },
+                                    "3": {
+                                      "title": "viewer",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "mapfishapp",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "openlayers",
+                                              "id": 352
+                                            },
+                                            "2": {
+                                              "title": "extjs",
+                                              "id": 353
+                                            },
+                                            "3": {
+                                              "title": "geoext",
+                                              "id": 354
+                                            }
+                                          },
+                                          "id": 351
+                                        },
+                                        "2": {
+                                          "title": "sviewer",
+                                          "id": 355
+                                        },
+                                        "3": {
+                                          "title": "geocms",
+                                          "id": 356
+                                        }
+                                      },
+                                      "id": 350
+                                    }
+                                  },
+                                  "id": 345
+                                }
+                              },
+                              "id": 344
+                            },
+                            "3": {
+                              "title": "interopérable",
+                              "ideas": {
+                                "1": {
+                                  "title": "OGC",
+                                  "id": 358
+                                },
+                                "2": {
+                                  "title": "API REST",
+                                  "id": 359
+                                }
+                              },
+                              "id": 357
+                            },
+                            "4": {
+                              "title": "communauté",
+                              "id": 360
+                            }
+                          },
+                          "id": 342
+                        },
+                        "2": {
+                          "title": "autres...",
+                          "id": 361
+                        }
+                      },
+                      "id": 341,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "9": {
+                      "title": "Infrastructures de données",
+                      "ideas": {
+                        "1": {
+                          "title": "spatiales",
+                          "ideas": {
+                            "1": {
+                              "title": "contexte",
+                              "ideas": {
+                                "1": {
+                                  "title": "institutionnel",
+                                  "id": 365
+                                },
+                                "2": {
+                                  "title": "thématique",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "geologie",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "brgm",
+                                          "id": 368
+                                        },
+                                        "2": {
+                                          "title": "usgs",
+                                          "id": 369
+                                        }
+                                      },
+                                      "id": 367
+                                    },
+                                    "2": {
+                                      "title": "oceano",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "ifremer",
+                                          "id": 371
+                                        },
+                                        "2": {
+                                          "title": "shom",
+                                          "id": 372
+                                        }
+                                      },
+                                      "id": 370
+                                    },
+                                    "3": {
+                                      "title": "traffic",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "maritime",
+                                          "id": 374
+                                        },
+                                        "2": {
+                                          "title": "aerien",
+                                          "id": 375
+                                        }
+                                      },
+                                      "id": 373
+                                    },
+                                    "4": {
+                                      "title": "hydro",
+                                      "id": 376
+                                    },
+                                    "5": {
+                                      "title": "sol",
+                                      "id": 377
+                                    }
+                                  },
+                                  "id": 366
+                                },
+                                "3": {
+                                  "title": "géographique",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "global/mondial",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "\"base map\"",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "OSM",
+                                              "id": 381
+                                            },
+                                            "2": {
+                                              "title": "google",
+                                              "id": 382
+                                            },
+                                            "3": {
+                                              "title": "mapquest",
+                                              "id": 383
+                                            }
+                                          },
+                                          "id": 380
+                                        },
+                                        "2": {
+                                          "title": "agences",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "US",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "USGS",
+                                                  "id": 386
+                                                },
+                                                "2": {
+                                                  "title": "NASA",
+                                                  "id": 387
+                                                },
+                                                "3": {
+                                                  "title": "...",
+                                                  "id": 388
+                                                }
+                                              },
+                                              "id": 385
+                                            },
+                                            "2": {
+                                              "title": "internationales",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "FAO",
+                                                  "id": 390
+                                                },
+                                                "2": {
+                                                  "title": "...",
+                                                  "id": 391
+                                                }
+                                              },
+                                              "id": 389
+                                            }
+                                          },
+                                          "id": 384
+                                        },
+                                        "3": {
+                                          "title": "imagerie/données sat",
+                                          "id": 392
+                                        },
+                                        "4": {
+                                          "title": "agences météo",
+                                          "id": 393
+                                        }
+                                      },
+                                      "id": 379
+                                    },
+                                    "2": {
+                                      "title": "national",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "e.g.",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "IGN",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "geoportail",
+                                                  "id": 397
+                                                },
+                                                "2": {
+                                                  "title": "geocatalogue",
+                                                  "id": 398
+                                                }
+                                              },
+                                              "id": 396
+                                            }
+                                          },
+                                          "id": 395
+                                        }
+                                      },
+                                      "id": 394
+                                    },
+                                    "3": {
+                                      "title": "régional",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "e.g.",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "FR",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "geobretagne",
+                                                  "id": 402
+                                                },
+                                                "2": {
+                                                  "title": "pigma",
+                                                  "id": 403
+                                                },
+                                                "3": {
+                                                  "title": "crige-paca",
+                                                  "id": 404
+                                                },
+                                                "4": {
+                                                  "title": "...",
+                                                  "id": 405
+                                                }
+                                              },
+                                              "id": 401
+                                            }
+                                          },
+                                          "id": 400
+                                        }
+                                      },
+                                      "id": 399
+                                    }
+                                  },
+                                  "id": 378
+                                },
+                                "4": {
+                                  "title": "sur mesure...",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "GéoSAS",
+                                      "id": 407
+                                    }
+                                  },
+                                  "id": 406
+                                }
+                              },
+                              "id": 364
+                            }
+                          },
+                          "id": 363,
+                          "attr": {
+                            "collapsed": true,
+                            "style": {}
+                          }
+                        },
+                        "2": {
+                          "title": "autres",
+                          "ideas": {
+                            "1": {
+                              "title": "open data ...",
+                              "id": 409
+                            }
+                          },
+                          "id": 408,
+                          "attr": {
+                            "collapsed": true,
+                            "style": {}
+                          }
+                        },
+                        "3": {
+                          "title": "...",
+                          "id": 410
+                        }
+                      },
+                      "id": 362
+                    }
+                  },
+                  "id": 92,
+                  "attr": {
+                    "style": {
+                      "background": "#ff6600"
+                    }
+                  }
+                }
+              },
+              "id": 4,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            }
+          },
+          "id": 3,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        }
+      },
+      "id": 2,
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      }
+    },
+    "2": {
+      "title": "2",
+      "ideas": {
+        "1": {
+          "title": "Lundi 03/11 - de 14 à 17",
+          "ideas": {
+            "1": {
+              "title": "3h",
+              "ideas": {
+                "1": {
+                  "title": "Requêtes OGC",
+                  "ideas": {
+                    "1": {
+                      "title": "dans un navigateur",
+                      "ideas": {
+                        "1": {
+                          "title": "get",
+                          "id": 416
+                        },
+                        "2": {
+                          "title": "post",
+                          "ideas": {
+                            "1": {
+                              "title": "poster",
+                              "id": 418
+                            }
+                          },
+                          "id": 417
+                        }
+                      },
+                      "id": 415,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "avec geOrchestra",
+                      "ideas": {
+                        "1": {
+                          "title": "mapfishapp",
+                          "id": 420
+                        }
+                      },
+                      "id": 419,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "dans QGIS",
+                      "id": 421
+                    }
+                  },
+                  "id": 414,
+                  "attr": {
+                    "style": {
+                      "background": "#808000"
+                    }
+                  }
+                }
+              },
+              "id": 413,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            }
+          },
+          "id": 412,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        }
+      },
+      "id": 411,
+      "attr": {
+        "style": {
+          "background": "#ff6600"
+        }
+      }
+    },
+    "3": {
+      "title": "3",
+      "ideas": {
+        "1": {
+          "title": "Mardi 04/11 - de 14 à 17",
+          "ideas": {
+            "1": {
+              "title": "3h",
+              "ideas": {
+                "1": {
+                  "title": "Serveurs cartographiques: GeoServer",
+                  "ideas": {
+                    "1": {
+                      "title": "préalable: voir les données",
+                      "ideas": {
+                        "1": {
+                          "title": "les viewers",
+                          "id": 427
+                        }
+                      },
+                      "id": 426,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "geoserver",
+                      "ideas": {
+                        "1": {
+                          "title": "quelques mots sur l'install",
+                          "ideas": {
+                            "1": {
+                              "title": "sur geoxxx",
+                              "ideas": {
+                                "1": {
+                                  "title": "geoxxx=serveur de test de géoSAS",
+                                  "id": 431
+                                }
+                              },
+                              "id": 430
+                            },
+                            "2": {
+                              "title": "prérequis",
+                              "ideas": {
+                                "1": {
+                                  "title": "install tomcat",
+                                  "id": 433
+                                }
+                              },
+                              "id": 432
+                            }
+                          },
+                          "id": 429
+                        },
+                        "2": {
+                          "title": "import de données: Pydio",
+                          "id": 434
+                        },
+                        "3": {
+                          "title": "fonctionnement geoserver",
+                          "ideas": {
+                            "1": {
+                              "title": "admin",
+                              "ideas": {
+                                "1": {
+                                  "title": "namespace",
+                                  "id": 437
+                                },
+                                "2": {
+                                  "title": "entrepot",
+                                  "id": 438
+                                },
+                                "3": {
+                                  "title": "déclaration de couches",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "publication",
+                                      "id": 440
+                                    }
+                                  },
+                                  "id": 439
+                                },
+                                "4": {
+                                  "title": "stylage",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "SLD",
+                                      "id": 442
+                                    }
+                                  },
+                                  "id": 441
+                                }
+                              },
+                              "id": 436
+                            }
+                          },
+                          "id": 435
+                        },
+                        "4": {
+                          "title": "publication",
+                          "id": 443
+                        }
+                      },
+                      "id": 428,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "utilisation mapfishapp",
+                      "id": 444
+                    },
+                    "4": {
+                      "title": "biblio",
+                      "ideas": {
+                        "1": {
+                          "title": "www geoserver",
+                          "id": 446
+                        },
+                        "2": {
+                          "title": "www geOrchestra",
+                          "id": 447
+                        },
+                        "3": {
+                          "title": "alternative FOSS: www mapserver",
+                          "id": 448
+                        }
+                      },
+                      "id": 445,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    }
+                  },
+                  "id": 425,
+                  "attr": {
+                    "style": {
+                      "background": "#008000"
+                    }
+                  }
+                }
+              },
+              "id": 424,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            }
+          },
+          "id": 423,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        }
+      },
+      "id": 422,
+      "attr": {
+        "style": {
+          "background": "#ff9900"
+        }
+      }
+    },
+    "4": {
+      "title": "4",
+      "ideas": {
+        "1": {
+          "title": "Mercredi 05/11 - de 9 à 12 ",
+          "ideas": {
+            "1": {
+              "title": "1h30",
+              "ideas": {
+                "1": {
+                  "title": " Serveurs cartographiques: GeoServer",
+                  "ideas": {
+                    "1": {
+                      "title": "stylage: SLD",
+                      "id": 453
+                    }
+                  },
+                  "id": 452,
+                  "attr": {
+                    "style": {
+                      "background": "#008000"
+                    }
+                  }
+                }
+              },
+              "id": 451,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            },
+            "2": {
+              "title": "1h30",
+              "ideas": {
+                "1": {
+                  "title": "Catalogues: GeoNetwork",
+                  "ideas": {
+                    "1": {
+                      "title": "quelques mots sur l'install",
+                      "ideas": {
+                        "1": {
+                          "title": "pas d'install",
+                          "ideas": {
+                            "1": {
+                              "title": "(similaire install gs)",
+                              "id": 458
+                            }
+                          },
+                          "id": 457
+                        },
+                        "2": {
+                          "title": "utilisation gn de geoxxx",
+                          "id": 459
+                        }
+                      },
+                      "id": 456,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "gn: pourquoi?",
+                      "id": 460
+                    },
+                    "3": {
+                      "title": "métadonnées",
+                      "ideas": {
+                        "1": {
+                          "title": "bonnes pratiques",
+                          "ideas": {
+                            "1": {
+                              "title": "ISO",
+                              "id": 463
+                            },
+                            "2": {
+                              "title": "INSPIRE",
+                              "id": 464
+                            }
+                          },
+                          "id": 462
+                        },
+                        "2": {
+                          "title": "fiches de métadonnées",
+                          "ideas": {
+                            "1": {
+                              "title": "INSPIRE",
+                              "id": 466
+                            },
+                            "2": {
+                              "title": "ISO",
+                              "id": 467
+                            }
+                          },
+                          "id": 465
+                        },
+                        "3": {
+                          "title": "lier metadonnées et données",
+                          "id": 468
+                        },
+                        "4": {
+                          "title": "thésaurus",
+                          "id": 469
+                        }
+                      },
+                      "id": 461,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "4": {
+                      "title": "biblio",
+                      "ideas": {
+                        "1": {
+                          "title": "kit formation GéoBretagne",
+                          "id": 471
+                        },
+                        "2": {
+                          "title": "www geonetwork",
+                          "id": 472
+                        },
+                        "3": {
+                          "title": "alternative FOSS: www geosource",
+                          "id": 473
+                        }
+                      },
+                      "id": 470,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    }
+                  },
+                  "id": 455,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
+                }
+              },
+              "id": 454,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            }
+          },
+          "id": 450,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        }
+      },
+      "id": 449,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "5": {
+      "title": "5",
+      "ideas": {
+        "1": {
+          "title": "Mercredi 05/11 - de 14 à 17",
+          "ideas": {
+            "1": {
+              "title": "1h30",
+              "ideas": {
+                "1": {
+                  "title": "Catalogues: GeoNetwork",
+                  "id": 477,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
+                }
+              },
+              "id": 476,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            },
+            "2": {
+              "title": "1h30",
+              "ideas": {
+                "1": {
+                  "title": " Viewers (dans un navigateur web)",
+                  "ideas": {
+                    "1": {
+                      "title": "viewers différents pour usages différents",
+                      "ideas": {
+                        "1": {
+                          "title": "mapfishapp",
+                          "id": 481
+                        },
+                        "2": {
+                          "title": "sviewer",
+                          "id": 482
+                        },
+                        "3": {
+                          "title": "mviewer",
+                          "id": 483
+                        },
+                        "4": {
+                          "title": "geocms",
+                          "id": 484
+                        }
+                      },
+                      "id": 480,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "contexte: WMC",
+                      "id": 485
+                    }
+                  },
+                  "id": 479,
+                  "attr": {
+                    "style": {
+                      "background": "#339966"
+                    }
+                  }
+                }
+              },
+              "id": 478,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            }
+          },
+          "id": 475,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        }
+      },
+      "id": 474,
+      "attr": {
+        "style": {
+          "background": "#ffff00"
+        }
+      }
+    },
+    "6": {
+      "title": "6",
+      "ideas": {
+        "1": {
+          "title": "Jeudi 06/11 - de 14 à 17",
+          "ideas": {
+            "1": {
+              "title": "1h30",
+              "ideas": {
+                "1": {
+                  "title": "Réutilisation",
+                  "ideas": {
+                    "1": {
+                      "title": "avec un viewer",
+                      "id": 490
+                    },
+                    "2": {
+                      "title": "avec un SIG: QGIS",
+                      "id": 491
+                    }
+                  },
+                  "id": 489,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                }
+              },
+              "id": 488,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            },
+            "2": {
+              "title": "1h30",
+              "ideas": {
+                "1": {
+                  "title": "WPS",
+                  "ideas": {
+                    "1": {
+                      "title": "avec un viewer",
+                      "ideas": {
+                        "1": {
+                          "title": "add-ons",
+                          "id": 495
+                        },
+                        "2": {
+                          "title": "integration web",
+                          "ideas": {
+                            "1": {
+                              "title": "portail",
+                              "id": 497
+                            },
+                            "2": {
+                              "title": "metaportail",
+                              "id": 498
+                            }
+                          },
+                          "id": 496,
+                          "attr": {
+                            "collapsed": true,
+                            "style": {}
+                          }
+                        }
+                      },
+                      "id": 494
+                    },
+                    "2": {
+                      "title": "avec un SIG: QGIS",
+                      "ideas": {
+                        "1": {
+                          "title": "wps-client",
+                          "id": 500
+                        }
+                      },
+                      "id": 499
+                    }
+                  },
+                  "id": 493,
+                  "attr": {
+                    "style": {
+                      "background": "#000080"
+                    }
+                  }
+                }
+              },
+              "id": 492,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            }
+          },
+          "id": 487,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        }
+      },
+      "id": 486,
+      "attr": {
+        "style": {
+          "background": "#00ff00"
+        }
+      }
+    },
+    "7": {
+      "title": "7",
+      "ideas": {
+        "1": {
+          "title": "Vendredi 07/11 - de 9:30 à 12:30",
+          "ideas": {
+            "1": {
+              "title": "3h",
+              "ideas": {
+                "1": {
+                  "title": "Les acteurs: assemblée générale  de GéoBretagne",
+                  "id": 504,
+                  "attr": {
+                    "style": {
+                      "background": "#00ccff"
+                    }
+                  }
+                }
+              },
+              "id": 503,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            }
+          },
+          "id": 502,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        }
+      },
+      "id": 501,
+      "attr": {
+        "style": {
+          "background": "#339966"
+        },
+        "position": [
+          54,
+          878,
+          1
+        ]
+      }
+    },
+    "-8": {
+      "title": "8",
+      "ideas": {
+        "1": {
+          "title": "Vendredi 07/11 - de 14 à 17",
+          "ideas": {
+            "1": {
+              "title": "3h",
+              "ideas": {
+                "1": {
+                  "title": "Présentation des projets",
+                  "ideas": {
+                    "1": {
+                      "title": "projets professionnels innovation et réutilisation des services de données spatiales (PP-IRESS)",
+                      "id": 509
+                    },
+                    "2": {
+                      "title": "projets WPS",
+                      "id": 510
+                    }
+                  },
+                  "id": 508,
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              },
+              "id": 507,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            }
+          },
+          "id": 506,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        }
+      },
+      "id": 505,
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      }
+    },
+    "-9": {
+      "title": "9",
+      "ideas": {
+        "1": {
+          "title": "de novembre à mars",
+          "ideas": {
+            "1": {
+              "title": "hors EDT",
+              "ideas": {
+                "1": {
+                  "title": "Projet professionnel IRESS",
+                  "ideas": {
+                    "1": {
+                      "title": "points d'étape",
+                      "ideas": {
+                        "1": {
+                          "title": "en décembre",
+                          "id": 516
+                        },
+                        "2": {
+                          "title": "en janvier",
+                          "ideas": {
+                            "1": {
+                              "title": "participation",
+                              "ideas": {
+                                "1": {
+                                  "title": "Lydie Vinsonneau (Région Bretagne, GéoBretagne, geOrchestra)",
+                                  "id": 519
+                                },
+                                "2": {
+                                  "title": "Fabrice Phung (DREAL Bretagne, GéoBretagne, geOrchestra)",
+                                  "id": 520
+                                }
+                              },
+                              "id": 518
+                            }
+                          },
+                          "id": 517
+                        }
+                      },
+                      "id": 515
+                    },
+                    "2": {
+                      "title": "restitution",
+                      "ideas": {
+                        "1": {
+                          "title": "fin février",
+                          "ideas": {
+                            "1": {
+                              "title": "en présence des partenaires",
+                              "id": 523
+                            }
+                          },
+                          "id": 522
+                        }
+                      },
+                      "id": 521
+                    },
+                    "3": {
+                      "title": "exemples",
+                      "ideas": {
+                        "1": {
+                          "title": "publication de données de recherche (INRA Le Rheu) ",
+                          "id": 525
+                        },
+                        "2": {
+                          "title": "(Agrial)",
+                          "id": 526
+                        },
+                        "3": {
+                          "title": "dématérialisation des plans d'épandage (DREAL)",
+                          "id": 527
+                        },
+                        "4": {
+                          "title": "...",
+                          "id": 528
+                        }
+                      },
+                      "id": 524
+                    }
+                  },
+                  "id": 514,
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
+                }
+              },
+              "id": 513,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            }
+          },
+          "id": 512,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        }
+      },
+      "id": 511,
+      "attr": {
+        "style": {
+          "background": "#333399"
+        }
+      }
+    },
+    "-10": {
+      "title": "10",
+      "ideas": {
+        "1": {
+          "title": "Lundi 01/12",
+          "ideas": {
+            "1": {
+              "title": "3h",
+              "ideas": {
+                "1": {
+                  "title": "Conférences",
+                  "ideas": {
+                    "1": {
+                      "title": "Lydie Vinsonneau: faire fonctionner une IDS - GéoBretagne",
+                      "id": 533
+                    },
+                    "2": {
+                      "title": "Fabrice Phung: le projet geOrchestra",
+                      "id": 534
+                    }
+                  },
+                  "id": 532,
+                  "attr": {
+                    "style": {
+                      "background": "#333300"
+                    }
+                  }
+                }
+              },
+              "id": 531,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            }
+          },
+          "id": 530,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        }
+      },
+      "id": 529,
+      "attr": {
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "-11": {
+      "title": "11",
+      "ideas": {
+        "1": {
+          "title": "au 2è semestre",
+          "ideas": {
+            "1": {
+              "title": "9h",
+              "ideas": {
+                "1": {
+                  "title": "Projet WPS",
+                  "ideas": {
+                    "1": {
+                      "title": "WPS de publication raster/vecteur",
+                      "ideas": {
+                        "1": {
+                          "title": "4 groupes travaillant en interaction",
+                          "ideas": {
+                            "1": {
+                              "title": "algorithme de dépôt de raster (python)",
+                              "id": 541
+                            },
+                            "2": {
+                              "title": "WPS (encapsulage) de dépôt de raster (python)",
+                              "id": 542
+                            },
+                            "3": {
+                              "title": "algorithme de dépôt de vecteur (python)",
+                              "id": 543
+                            },
+                            "4": {
+                              "title": "WPS (encapsulage) de dépôt de vecteur (python)",
+                              "id": 544
+                            }
+                          },
+                          "id": 540
+                        }
+                      },
+                      "id": 539,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    }
+                  },
+                  "id": 538,
+                  "attr": {
+                    "style": {
+                      "background": "#808000"
+                    }
+                  }
+                }
+              },
+              "id": 537,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            }
+          },
+          "id": 536,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        }
+      },
+      "id": 535,
+      "attr": {
+        "style": {
+          "background": "#993366"
+        }
+      }
+    },
+    "-12": {
+      "title": "12",
+      "ideas": {
+        "1": {
+          "title": "au 2è semestre",
+          "ideas": {
+            "1": {
+              "title": "?h",
+              "ideas": {
+                "1": {
+                  "title": "Bases de données avancées",
+                  "ideas": {
+                    "1": {
+                      "title": "Postgis",
+                      "id": 549
+                    },
+                    "2": {
+                      "title": "QGIS",
+                      "id": 550
+                    },
+                    "3": {
+                      "title": "geOrchestra",
+                      "id": 551
+                    }
+                  },
+                  "id": 548,
+                  "attr": {
+                    "style": {
+                      "background": "#666699"
+                    }
+                  }
+                }
+              },
+              "id": 547,
+              "attr": {
+                "style": {
+                  "background": "#808080"
+                }
+              }
+            }
+          },
+          "id": 546,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        }
+      },
+      "id": 545,
+      "attr": {
+        "style": {
+          "background": "#ff00ff"
+        }
+      }
+    }
+  },
+  "formatVersion": 2,
+  "id": 1
+}
