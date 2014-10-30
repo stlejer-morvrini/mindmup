@@ -1,0 +1,511 @@
+{
+  "title": "SERVICES WEB POUR LES DONNÉES ET PROCESSUS SPATIAUX",
+  "id": 1,
+  "ideas": {
+    "1": {
+      "title": "1 intro",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "l'idée",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "une toolbox pour les IDS",
+              "id": 21
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        }
+      }
+    },
+    "1.5": {
+      "title": "2 contexte",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "OGC: web processing service",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "implementations wps",
+              "id": 11,
+              "ideas": {
+                "1": {
+                  "title": "pywps",
+                  "id": 12,
+                  "ideas": {
+                    "1": {
+                      "title": "http://wiki.rsg.pml.ac.uk/pywps/",
+                      "id": 14
+                    }
+                  }
+                },
+                "2": {
+                  "title": "zoowps",
+                  "id": 13,
+                  "ideas": {
+                    "2": {
+                      "title": "zoo-wps http://zoo-project.org/ ",
+                      "id": 16,
+                      "ideas": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "clients wps",
+              "id": 22,
+              "ideas": {
+                "1": {
+                  "title": "qgis",
+                  "id": 23
+                },
+                "2": {
+                  "title": "mapfishapp (geOrchestra)",
+                  "id": 24
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
+        },
+        "4": {
+          "title": "INSPIRE",
+          "id": 44,
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        },
+        "5": {
+          "title": "interopérabilité",
+          "id": 45,
+          "ideas": {
+            "1": {
+              "title": "OGC",
+              "id": 48,
+              "ideas": {
+                "1": {
+                  "title": "WMS",
+                  "id": 47,
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "WFS",
+                  "id": 49
+                },
+                "3": {
+                  "title": "WFS-T",
+                  "id": 50
+                },
+                "4": {
+                  "title": "SLD",
+                  "id": 51,
+                  "ideas": {}
+                },
+                "5": {
+                  "title": "WMC",
+                  "id": 52
+                },
+                "6": {
+                  "title": "WPS",
+                  "id": 53
+                },
+                "7": {
+                  "title": "CSW",
+                  "id": 54
+                }
+              }
+            },
+            "2": {
+              "title": "api REST",
+              "id": 68
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#00ffff"
+        }
+      }
+    },
+    "-10": {
+      "title": "4 applications",
+      "id": 25,
+      "ideas": {
+        "1": {
+          "title": "profil en long",
+          "id": 26,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#333300"
+            }
+          }
+        },
+        "2": {
+          "title": "recherche parcelle cadastrale",
+          "id": 28,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
+        },
+        "3": {
+          "title": "loupe ortho",
+          "id": 29,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "4": {
+          "title": "info maille",
+          "id": 31,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#339966"
+            }
+          }
+        },
+        "5": {
+          "title": "calcul bassin versant",
+          "id": 34,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#00ff00"
+            }
+          }
+        },
+        "6": {
+          "title": "calcul réseau hydrographique amont",
+          "id": 36,
+          "attr": {
+            "style": {
+              "background": "#333300"
+            }
+          }
+        },
+        "7": {
+          "title": "more...",
+          "id": 37,
+          "ideas": {
+            "1": {
+              "title": "outils grass",
+              "id": 38
+            },
+            "2": {
+              "title": "(arcgis toolbox)",
+              "id": 39
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#339966"
+            }
+          }
+        },
+        "6.5": {
+          "title": "info sol",
+          "id": 40,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      }
+    },
+    "-5": {
+      "title": "5 conclusion / perspectives",
+      "id": 41,
+      "ideas": {
+        "1": {
+          "title": "partenaires",
+          "id": 55,
+          "ideas": {
+            "1": {
+              "title": "recherche",
+              "id": 56,
+              "ideas": {
+                "1": {
+                  "title": "INRA ",
+                  "id": 57,
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "OSUR",
+                  "id": 63
+                },
+                "3": {
+                  "title": "IUEM (OSU Brest)",
+                  "id": 64
+                }
+              }
+            },
+            "2": {
+              "title": "collectivités territoriales",
+              "id": 58
+            },
+            "3": {
+              "title": "...",
+              "id": 59,
+              "ideas": {}
+            },
+            "4": {
+              "title": "communauté de développeurs",
+              "id": 61
+            },
+            "5": {
+              "title": "communauté d'utilisateurs",
+              "id": 88
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
+        },
+        "2": {
+          "title": "notre contribution",
+          "id": 89,
+          "ideas": {
+            "1": {
+              "title": "Premier utilisateur de geOrchestra (après Geobretagne)",
+              "id": 90,
+              "ideas": {
+                "1": {
+                  "title": "premier organisme de recherche",
+                  "id": 91
+                }
+              }
+            },
+            "3": {
+              "title": "moteur dans l'ouverture aux WPS",
+              "id": 93
+            },
+            "4": {
+              "title": "promotion de l'ouverture",
+              "id": 94,
+              "ideas": {
+                "1": {
+                  "title": "interoperabilité",
+                  "id": 95
+                },
+                "2": {
+                  "title": "opensource",
+                  "id": 96
+                },
+                "3": {
+                  "title": "open access",
+                  "id": 97
+                },
+                "4": {
+                  "title": "libérer les données et les processus",
+                  "id": 98
+                }
+              }
+            },
+            "3.5": {
+              "title": "contribution au développement et à la diffusion de l'IDS",
+              "id": 92,
+              "ideas": {
+                "3": {
+                  "title": "développement",
+                  "id": 102,
+                  "ideas": {
+                    "2": {
+                      "title": "extention google",
+                      "id": 100
+                    },
+                    "3": {
+                      "title": "WPS",
+                      "id": 103
+                    },
+                    "4": {
+                      "title": "addons",
+                      "id": 110,
+                      "ideas": {
+                        "1": {
+                          "title": "Vidae",
+                          "id": 101
+                        },
+                        "2": {
+                          "title": "websol",
+                          "id": 111
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "title": "diffusion",
+                  "id": 104,
+                  "ideas": {
+                    "1": {
+                      "title": "SGDN",
+                      "id": 105
+                    },
+                    "2": {
+                      "title": "WEBSOL",
+                      "id": 106
+                    },
+                    "3": {
+                      "title": "INFOSOL",
+                      "id": 107
+                    },
+                    "4": {
+                      "title": "INRA",
+                      "id": 108
+                    },
+                    "5": {
+                      "title": "geOcom",
+                      "id": 109
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#800080"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#666699"
+        }
+      }
+    },
+    "11.5": {
+      "title": "3 architecture",
+      "id": 42,
+      "ideas": {
+        "1": {
+          "title": "client-serveur",
+          "id": 69,
+          "ideas": {
+            "1": {
+              "title": "client",
+              "id": 72,
+              "ideas": {
+                "1": {
+                  "title": "web",
+                  "id": 73,
+                  "ideas": {
+                    "1": {
+                      "title": "mapfishapp",
+                      "id": 74
+                    },
+                    "2": {
+                      "title": "...",
+                      "id": 75
+                    }
+                  }
+                },
+                "2": {
+                  "title": "autre appli",
+                  "id": 85,
+                  "ideas": {
+                    "1": {
+                      "title": "SIG",
+                      "id": 86
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "serveur",
+              "id": 76,
+              "ideas": {
+                "1": {
+                  "title": "Bases de données",
+                  "id": 77,
+                  "ideas": {
+                    "1": {
+                      "title": "spatiales",
+                      "id": 78
+                    },
+                    "2": {
+                      "title": "aspatiales",
+                      "id": 79,
+                      "ideas": {}
+                    },
+                    "3": {
+                      "title": "temporelles / chroniques",
+                      "id": 81
+                    }
+                  }
+                },
+                "2": {
+                  "title": "serveur carto",
+                  "id": 82
+                },
+                "3": {
+                  "title": "catalogue de métadonnées",
+                  "id": 83
+                },
+                "4": {
+                  "title": "serveur de processus",
+                  "id": 84
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "s'appuie sur",
+          "id": 87,
+          "ideas": {
+            "1": {
+              "title": "standards OGC",
+              "id": 70
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#00ccff"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#000000"
+    }
+  },
+  "formatVersion": 2
+}
