@@ -1,0 +1,1064 @@
+{
+  "title": "Contribution de GéoBretagne à l'enseignement supérieur et à la recherche",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "6": {
+      "title": "3- GéoSAS",
+      "id": 12,
+      "ideas": {
+        "1": {
+          "title": "Une équipe",
+          "id": 13,
+          "ideas": {
+            "2": {
+              "title": "ingénieurs",
+              "id": 15,
+              "ideas": {
+                "1": {
+                  "title": "Geneviève Le Henaff",
+                  "id": 20
+                },
+                "2": {
+                  "title": "Hervé Squividant",
+                  "id": 21
+                },
+                "3": {
+                  "title": "Laurent Ruiz",
+                  "id": 23
+                },
+                "4": {
+                  "title": "Jonathan Vanhouteghem",
+                  "id": 24,
+                  "ideas": {
+                    "1": {
+                      "title": "Enseignants-chercheurs",
+                      "id": 14,
+                      "ideas": {
+                        "1": {
+                          "title": "Rod Béra",
+                          "id": 19
+                        }
+                      },
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "techniciens",
+              "id": 16,
+              "ideas": {
+                "1": {
+                  "title": "Pascal Pichelin",
+                  "id": 25
+                }
+              }
+            },
+            "4": {
+              "title": "Stagiaires",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": "passés",
+                  "id": 35,
+                  "ideas": {
+                    "1": {
+                      "title": "Mounir Saadni",
+                      "id": 206,
+                      "ideas": {
+                        "1": {
+                          "title": "WPS télédétection",
+                          "id": 207
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Jonathan Vanhouteghem",
+                      "id": 208,
+                      "ideas": {}
+                    },
+                    "3": {
+                      "title": "Frédéric Le Guilloux",
+                      "id": 210,
+                      "ideas": {
+                        "1": {
+                          "title": "publication et stylage",
+                          "id": 211
+                        },
+                        "2": {
+                          "title": "Archéologie des données",
+                          "id": 212
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "présents",
+                  "id": 36
+                },
+                "3": {
+                  "title": "à venir",
+                  "id": 37
+                }
+              }
+            },
+            "5": {
+              "title": "autres",
+              "id": 110,
+              "ideas": {
+                "1": {
+                  "title": "qui veut...",
+                  "id": 111
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "position": [
+              83,
+              -88.1875,
+              1
+            ],
+            "collapsed": true
+          }
+        },
+        "2": {
+          "title": "une IDS",
+          "id": 38,
+          "ideas": {
+            "1": {
+              "title": "geowww : serveur de prod",
+              "id": 82,
+              "ideas": {
+                "1": {
+                  "title": "geoserver",
+                  "id": 84,
+                  "ideas": {
+                    "1": {
+                      "title": "http://geowww.agrocampus-ouest.fr/geoserver/web/",
+                      "id": 123
+                    }
+                  }
+                },
+                "2": {
+                  "title": "geonetwork",
+                  "id": 86,
+                  "ideas": {
+                    "1": {
+                      "title": "http://geowww.agrocampus-ouest.fr/geonetwork/srv/fr/main.home",
+                      "id": 116
+                    },
+                    "3": {
+                      "title": "moissonné",
+                      "id": 119,
+                      "ideas": {
+                        "1": {
+                          "title": "par GéoBretagne",
+                          "id": 117,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "2": {
+                          "title": "par GéoCatalogue",
+                          "id": 121,
+                          "ideas": {
+                            "1": {
+                              "title": "... et donc par le portail INSPIRE",
+                              "id": 122,
+                              "attr": {
+                                "style": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "title": "web",
+                  "id": 113,
+                  "ideas": {
+                    "1": {
+                      "title": "http://geowww.agrocampus-ouest.fr/web/",
+                      "id": 115
+                    }
+                  }
+                },
+                "4": {
+                  "title": "portails thématiques",
+                  "id": 125,
+                  "ideas": {
+                    "1": {
+                      "title": "ORE AgrHyS",
+                      "id": 127,
+                      "ideas": {
+                        "1": {
+                          "title": "http://geowww.agrocampus-ouest.fr/portails/?portail=vidae",
+                          "id": 128
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Milieux potentiellement Humides - France",
+                      "id": 129,
+                      "ideas": {
+                        "1": {
+                          "title": "http://geowww.agrocampus-ouest.fr/mapfishapp/?noheader&wmc=http://geowww.agrocampus-ouest.fr/wmc/mph_france.wmc",
+                          "id": 130
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Sols de Bretagne",
+                      "id": 131,
+                      "ideas": {
+                        "1": {
+                          "title": "http://geowww.agrocampus-ouest.fr/mapfishapp/?noheader&wmc=http://geowww.agrocampus-ouest.fr/wmc/bzh_MateriauDominant.wmc",
+                          "id": 132
+                        }
+                      }
+                    },
+                    "4": {
+                      "title": "Nitrates en Bretagne (CSEB)",
+                      "id": 134,
+                      "ideas": {
+                        "1": {
+                          "title": "http://geowww.agrocampus-ouest.fr/portails/?portail=cseb",
+                          "id": 135
+                        }
+                      }
+                    },
+                    "5": {
+                      "title": "projet AICHA (Inde)",
+                      "id": 136,
+                      "ideas": {
+                        "1": {
+                          "title": "http://geowww.agrocampus-ouest.fr/portails/?portail=aicha",
+                          "id": 137
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "title": "WPS server",
+                  "id": 140,
+                  "ideas": {
+                    "1": {
+                      "title": "MNTSurf",
+                      "id": 141,
+                      "ideas": {
+                        "1": {
+                          "title": "http://geowww.agrocampus-ouest.fr/cgi-bin/mntsurf.cgi",
+                          "id": 142
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "HS WPS",
+                      "id": 143,
+                      "ideas": {
+                        "1": {
+                          "title": "http://geowww.agrocampus-ouest.fr/cgi-bin/hswps.cgi",
+                          "id": 144
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "autres (test)",
+                      "id": 145
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "geoxxx : serveur de test",
+              "id": 88,
+              "ideas": {
+                "1": {
+                  "title": "geoserver",
+                  "id": 89,
+                  "ideas": {
+                    "1": {
+                      "title": "http://geoxxx.agrocampus-ouest.fr/geoserver/web/",
+                      "id": 146
+                    }
+                  }
+                },
+                "2": {
+                  "title": "geoserverwps",
+                  "id": 90,
+                  "ideas": {
+                    "1": {
+                      "title": "couches calculées par des WPS",
+                      "id": 92
+                    },
+                    "2": {
+                      "title": "geoserver pour l'enseignement",
+                      "id": 96,
+                      "ideas": {
+                        "1": {
+                          "title": "M2GI",
+                          "id": 98,
+                          "ideas": {
+                            "1": {
+                              "title": "formation IDS",
+                              "id": 99
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "http://geoxxx.agrocampus-ouest.fr/geoserverwps/web/",
+                      "id": 148
+                    }
+                  }
+                },
+                "3": {
+                  "title": "geoens",
+                  "id": 91,
+                  "ideas": {
+                    "1": {
+                      "title": "geoserver pour l'enseignemenent",
+                      "id": 93,
+                      "ideas": {
+                        "1": {
+                          "title": "L3",
+                          "id": 94,
+                          "ideas": {
+                            "1": {
+                              "title": "intro aus SIG (QGIS)",
+                              "id": 100,
+                              "ideas": {
+                                "1": {
+                                  "title": "les services OGC",
+                                  "id": 102,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "geoens",
+                                      "id": 103
+                                    },
+                                    "2": {
+                                      "title": "GéoBretagne",
+                                      "id": 104
+                                    },
+                                    "3": {
+                                      "title": "autres...",
+                                      "id": 105
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "M1",
+                          "id": 95,
+                          "ideas": {
+                            "1": {
+                              "title": "module analyse spatiale",
+                              "id": 101,
+                              "ideas": {
+                                "1": {
+                                  "title": "les services OGC",
+                                  "id": 108,
+                                  "ideas": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "http://geoxxx.agrocampus-ouest.fr/geoserverwps/web/",
+                      "id": 149
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        },
+        "1.5": {
+          "title": "Une architecture",
+          "id": 44,
+          "attr": {
+            "style": {},
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "geOrchestra",
+              "id": 45
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {},
+        "position": [
+          204,
+          167.1875,
+          2
+        ]
+      }
+    },
+    "0.5": {
+      "title": "1- contexte Institutionnel",
+      "id": 4,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "2": {
+          "title": "recherche",
+          "id": 247,
+          "ideas": {
+            "1": {
+              "title": "UMR SAS",
+              "id": 8,
+              "ideas": {
+                "1": {
+                  "title": "Unité mixte de recherche Sol agrohydrosystème spatialisation",
+                  "id": 5,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "mixte",
+                      "id": 9,
+                      "ideas": {
+                        "1": {
+                          "title": "Agrocampus Ouest",
+                          "id": 10,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "2": {
+                          "title": "INRA",
+                          "id": 11,
+                          "attr": {
+                            "style": {}
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {},
+                "collapsed": true
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "enseignement",
+          "id": 248,
+          "ideas": {
+            "1": {
+              "title": "PSN",
+              "id": 249,
+              "ideas": {
+                "1": {
+                  "title": "Physique et spatialisation numérique",
+                  "id": 250,
+                  "ideas": {
+                    "1": {
+                      "title": "département MilPaTT",
+                      "id": 251,
+                      "ideas": {
+                        "1": {
+                          "title": "Agrocampus Ouest",
+                          "id": 252
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "3.25": {
+      "title": "2- Besoins de base",
+      "id": 47,
+      "ideas": {
+        "1": {
+          "title": "recherche",
+          "id": 48,
+          "ideas": {
+            "2": {
+              "title": "partager",
+              "id": 52,
+              "ideas": {
+                "1": {
+                  "title": "données",
+                  "id": 53
+                },
+                "2": {
+                  "title": "modèles",
+                  "id": 55
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Enseignement",
+          "id": 49,
+          "ideas": {
+            "1": {
+              "title": "former aux IDS",
+              "id": 56,
+              "ideas": {}
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-4": {
+      "title": "recherche",
+      "id": 63,
+      "ideas": {
+        "1": {
+          "title": "GéoBretagne",
+          "id": 151,
+          "ideas": {
+            "1": {
+              "title": "à l'origine de la solution technique",
+              "id": 152,
+              "ideas": {
+                "1": {
+                  "title": "geOrchestra",
+                  "id": 191,
+                  "ideas": {
+                    "1": {
+                      "title": "Libre",
+                      "id": 192
+                    },
+                    "2": {
+                      "title": "Gratuite",
+                      "id": 193
+                    },
+                    "3": {
+                      "title": "modulaire",
+                      "id": 194
+                    },
+                    "4": {
+                      "title": "interopérable",
+                      "id": 196
+                    },
+                    "5": {
+                      "title": "base de la réussite de GéoSAS",
+                      "id": 214,
+                      "ideas": {
+                        "1": {
+                          "title": "exemple à suivre (suivi)  pour les IDS scientifiques",
+                          "id": 215,
+                          "ideas": {
+                            "1": {
+                              "title": "INRA",
+                              "id": 216,
+                              "ideas": {
+                                "1": {
+                                  "title": "UMR LIsah",
+                                  "id": 218
+                                },
+                                "2": {
+                                  "title": "GéoINRA",
+                                  "id": 219
+                                }
+                              }
+                            },
+                            "2": {
+                              "title": "OSUR",
+                              "id": 221
+                            },
+                            "3": {
+                              "title": "OSU-IUEM",
+                              "id": 223
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Premier utilisateur de geOrchestra (après Geobretagne)",
+                  "ideas": {
+                    "1": {
+                      "title": "premier organisme de recherche",
+                      "id": 226
+                    }
+                  },
+                  "id": 225,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "partenaire",
+              "id": 153
+            }
+          }
+        },
+        "2": {
+          "title": "ouverture, communication",
+          "id": 197,
+          "ideas": {
+            "1": {
+              "title": "scientifiques",
+              "id": 198,
+              "ideas": {
+                "1": {
+                  "title": "efficacité",
+                  "id": 201
+                },
+                "2": {
+                  "title": "complément aux publications",
+                  "id": 202
+                }
+              }
+            },
+            "2": {
+              "title": "tous publics",
+              "id": 199,
+              "ideas": {
+                "1": {
+                  "title": "obligation morale de partage des résultats de la science",
+                  "id": 200
+                },
+                "2": {
+                  "title": "pédagogie",
+                  "id": 204
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "géoSAS contributeur du projet geOrchestra",
+          "id": 205
+        },
+        "4": {
+          "title": "notre contribution",
+          "attr": {
+            "style": {
+              "background": "transparent"
+            }
+          },
+          "ideas": {
+            "2": {
+              "title": "moteur dans l'ouverture aux WPS",
+              "id": 227
+            },
+            "3": {
+              "title": "contribution au développement et à la diffusion de l'outil et de la philosophie geOrchestra",
+              "ideas": {
+                "1": {
+                  "title": "développement",
+                  "ideas": {
+                    "1": {
+                      "title": "extension google",
+                      "id": 230
+                    },
+                    "2": {
+                      "title": "WPS",
+                      "id": 231,
+                      "ideas": {
+                        "1": {
+                          "title": "fonctions MNTSurf",
+                          "id": 264
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "addons",
+                      "ideas": {
+                        "1": {
+                          "title": "Vidae",
+                          "id": 233
+                        },
+                        "2": {
+                          "title": "websol",
+                          "id": 234
+                        },
+                        "3": {
+                          "title": "BV",
+                          "id": 262
+                        }
+                      },
+                      "id": 232
+                    }
+                  },
+                  "id": 229,
+                  "attr": {
+                    "collapsed": true,
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "diffusion",
+                  "ideas": {
+                    "1": {
+                      "title": "SGDN",
+                      "id": 236
+                    },
+                    "2": {
+                      "title": "WEBSOL",
+                      "id": 237
+                    },
+                    "3": {
+                      "title": "INFOSOL",
+                      "id": 238
+                    },
+                    "4": {
+                      "title": "INRA",
+                      "id": 239
+                    },
+                    "5": {
+                      "title": "ANF IDS 2014",
+                      "id": 240
+                    }
+                  },
+                  "id": 235,
+                  "attr": {
+                    "collapsed": true,
+                    "style": {}
+                  }
+                }
+              },
+              "id": 228
+            },
+            "4": {
+              "title": "promotion de l'ouverture",
+              "ideas": {
+                "4": {
+                  "title": "libérer les données et les processus",
+                  "id": 245
+                }
+              },
+              "id": 241
+            }
+          },
+          "id": 224
+        }
+      }
+    },
+    "-14": {
+      "title": "Enseignement",
+      "id": 60,
+      "attr": {
+        "position": [
+          81.5,
+          152,
+          1
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "2": {
+          "title": "contribution GéoBretagne",
+          "id": 155,
+          "ideas": {
+            "1": {
+              "title": "Source de données",
+              "id": 156
+            },
+            "2": {
+              "title": "implémentation de geOrchestra",
+              "id": 157,
+              "ideas": {
+                "1": {
+                  "title": "Une référence pour l'enseignement IDS ",
+                  "id": 158
+                },
+                "2": {
+                  "title": "source d'inspiration",
+                  "id": 172
+                }
+              }
+            },
+            "3": {
+              "title": "formations GéoBretagne",
+              "id": 160,
+              "ideas": {
+                "1": {
+                  "title": "pour le personnel",
+                  "id": 162,
+                  "ideas": {
+                    "1": {
+                      "title": "techniciens et ingénieurs Agro, INRA ",
+                      "id": 163
+                    }
+                  }
+                },
+                "2": {
+                  "title": "pour nos étudiants",
+                  "id": 165,
+                  "ideas": {
+                    "1": {
+                      "title": "documents",
+                      "id": 166,
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "TD",
+                      "id": 169
+                    },
+                    "3": {
+                      "title": "exercices",
+                      "id": 170
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "IDS et enseignement",
+          "id": 175,
+          "ideas": {
+            "1": {
+              "title": "enseignement avec les IDS",
+              "id": 176,
+              "ideas": {
+                "1": {
+                  "title": "GéoBretagne",
+                  "id": 183
+                },
+                "2": {
+                  "title": "GéoSAS",
+                  "id": 185
+                },
+                "3": {
+                  "title": "autres",
+                  "id": 186
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Enseignement des IDS",
+              "id": 178,
+              "ideas": {
+                "1": {
+                  "title": "GéoSAS: geoxxx",
+                  "id": 187,
+                  "ideas": {
+                    "1": {
+                      "title": "IDS de test",
+                      "id": 188,
+                      "ideas": {
+                        "1": {
+                          "title": "Les étudiants M2 GI peuvent la maltraiter",
+                          "id": 189
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "IDS d'enseignement",
+              "id": 181,
+              "ideas": {
+                "1": {
+                  "title": "GéoACO",
+                  "id": 39,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "1ere IDS d'enseignement",
+                      "id": 173,
+                      "ideas": {
+                        "1": {
+                          "title": "publication de données pour l'enseignement ",
+                          "id": 190
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "formation pour la recherche",
+          "id": 254,
+          "ideas": {
+            "1": {
+              "title": "ANF IDS 2014 (CNRS)",
+              "id": 255
+            }
+          }
+        },
+        "1.5": {
+          "title": "IDS et cursus",
+          "id": 256,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "2": {
+              "title": "L3 SIG (et services OGC)",
+              "id": 257,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "M1: option analyse spatiale",
+              "id": 258,
+              "ideas": {
+                "1": {
+                  "title": "SIG, OGC",
+                  "id": 259,
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "consommer des flux et des service",
+                  "id": 261
+                }
+              },
+              "attr": {
+                "style": {},
+                "collapsed": true
+              }
+            },
+            "13": {
+              "title": "M2 Géomatique et Image",
+              "id": 66,
+              "ideas": {
+                "1": {
+                  "title": "Cohabilité",
+                  "id": 67,
+                  "ideas": {
+                    "1": {
+                      "title": "Rennes 2 (Costel)",
+                      "id": 68,
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Agrocampus Ouest",
+                      "id": 70
+                    }
+                  }
+                },
+                "2": {
+                  "title": "cursus",
+                  "id": 72,
+                  "ideas": {
+                    "1": {
+                      "title": "professionnalisant",
+                      "id": 74
+                    },
+                    "2": {
+                      "title": "Télédétection et traitement d'image",
+                      "id": 75
+                    },
+                    "3": {
+                      "title": "Informatique",
+                      "id": 76
+                    },
+                    "5": {
+                      "title": "territoire",
+                      "id": 79
+                    },
+                    "6": {
+                      "title": "bases de données",
+                      "id": 80
+                    },
+                    "7": {
+                      "title": "Web",
+                      "id": 81
+                    },
+                    "17": {
+                      "title": "IDS",
+                      "id": 78,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": []
+}
