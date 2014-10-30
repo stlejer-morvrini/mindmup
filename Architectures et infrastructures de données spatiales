@@ -1,5 +1,5 @@
 {
-  "title": "Architectures et infrastructures de donnÃ©es spatiales: le programme",
+  "title": "Architectures et infrastructures de données spatiales: le programme",
   "attr": {
     "style": {
       "background": "#800080"
@@ -435,7 +435,8 @@
                       },
                       "id": 6,
                       "attr": {
-                        "style": {}
+                        "style": {},
+                        "collapsed": true
                       }
                     }
                   },
@@ -661,7 +662,8 @@
                       },
                       "id": 93,
                       "attr": {
-                        "style": {}
+                        "style": {},
+                        "collapsed": true
                       }
                     },
                     "2": {
@@ -2056,7 +2058,11 @@
                           "id": 410
                         }
                       },
-                      "id": 362
+                      "id": 362,
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
                     }
                   },
                   "id": 92,
@@ -2957,7 +2963,8 @@
                   "attr": {
                     "style": {
                       "background": "#ffff99"
-                    }
+                    },
+                    "collapsed": true
                   }
                 }
               },
