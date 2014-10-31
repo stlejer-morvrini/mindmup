@@ -682,21 +682,16 @@
         },
         "3": {
           "title": "géoSAS contributeur du projet geOrchestra",
-          "id": 205
-        },
-        "4": {
-          "title": "notre contribution",
-          "attr": {
-            "style": {
-              "background": "transparent"
-            }
-          },
+          "id": 205,
           "ideas": {
-            "2": {
+            "1": {
               "title": "moteur dans l'ouverture aux WPS",
-              "id": 227
+              "id": 227,
+              "attr": {
+                "style": {}
+              }
             },
-            "3": {
+            "2": {
               "title": "contribution au développement et à la diffusion de l'outil et de la philosophie geOrchestra",
               "ideas": {
                 "1": {
@@ -772,9 +767,12 @@
                   }
                 }
               },
-              "id": 228
+              "id": 228,
+              "attr": {
+                "style": {}
+              }
             },
-            "4": {
+            "3": {
               "title": "promotion de l'ouverture",
               "ideas": {
                 "4": {
@@ -782,10 +780,12 @@
                   "id": 245
                 }
               },
-              "id": 241
+              "id": 241,
+              "attr": {
+                "style": {}
+              }
             }
-          },
-          "id": 224
+          }
         }
       }
     },
